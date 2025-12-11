@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Olivia Martin",
+    "position": "Senior Software Engineer",
+    "department": "Engineering",
+    "email": "olivia.martin@example.com",
+    "phone": "(555) 123-4567",
+    "status": "Active",
+    "joined": "2019-06-12",
+    "salary": 98000
+  },
+  {
+    "id": 2,
+    "name": "Liam Johnson",
+    "position": "Product Manager",
+    "department": "Product",
+    "email": "liam.johnson@example.com",
+    "phone": "(555) 234-5678",
+    "status": "Active",
+    "joined": "2020-02-03",
+    "salary": 105000
+  },
+  {
+    "id": 3,
+    "name": "Emma Williams",
+    "position": "UX Designer",
+    "department": "Design",
+    "email": "emma.williams@example.com",
+    "phone": "(555) 345-6789",
+    "status": "On Leave",
+    "joined": "2021-08-19",
+    "salary": 78000
+  },
+  {
+    "id": 4,
+    "name": "Noah Brown",
+    "position": "Data Analyst",
+    "department": "Data",
+    "email": "noah.brown@example.com",
+    "phone": "(555) 456-7890",
+    "status": "Active",
+    "joined": "2018-11-01",
+    "salary": 84000
+  },
+  {
+    "id": 5,
+    "name": "Ava Davis",
+    "position": "HR Manager",
+    "department": "Human Resources",
+    "email": "ava.davis@example.com",
+    "phone": "(555) 567-8901",
+    "status": "Active",
+    "joined": "2017-04-25",
+    "salary": 92000
+  },
+  {
+    "id": 6,
+    "name": "Ethan Wilson",
+    "position": "DevOps Engineer",
+    "department": "Engineering",
+    "email": "ethan.wilson@example.com",
+    "phone": "(555) 678-9012",
+    "status": "Active",
+    "joined": "2022-01-10",
+    "salary": 87000
+  },
+  {
+    "id": 7,
+    "name": "Sophia Moore",
+    "position": "Marketing Specialist",
+    "department": "Marketing",
+    "email": "sophia.moore@example.com",
+    "phone": "(555) 789-0123",
+    "status": "Inactive",
+    "joined": "2016-09-14",
+    "salary": 72000
+  },
+  {
+    "id": 8,
+    "name": "James Taylor",
+    "position": "Finance Analyst",
+    "department": "Finance",
+    "email": "james.taylor@example.com",
+    "phone": "(555) 890-1234",
+    "status": "Active",
+    "joined": "2023-05-02",
+    "salary": 81000
+  }
+]
