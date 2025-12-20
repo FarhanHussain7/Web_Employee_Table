@@ -56,7 +56,7 @@ const Header = ({ onSearch = () => {}, hasNewData = false, notificationMessage =
             <div className="relative">
               <div className="absolute inset-0 bg-linear-to-r from-blue-600 to-cyan-500 rounded-lg blur opacity-75 hover:opacity-100 transition-opacity duration-300"></div>
               <div className="relative px-4 py-2 bg-slate-900 rounded-lg">
-                <span className="text-xl font-bold bg-linear-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">E-Staff</span>
+                <span className="text-xl font-bold bg-linear-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">TEKACCEL</span>
               </div>
             </div>
           </div>
